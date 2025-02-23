@@ -7,7 +7,7 @@ function App() {
   const [error,setError] = useState(null);
 
   const races = [
-    {date: '2025-02-23' , name: 'Ambetter Health 400', location: 'Atlanta, GA'},
+    {date: '2025-02-23' , name: 'Ambetter Health 400', location: 'Atlanta'},
     {date: '2025-03-02' ,name: 'EchoPark Automotive Grand Prix', location: 'Austin, TX'},
     {date: '2025-03-09' ,name: 'Shriners Childrens 500', location: 'Avondale, AZ'},
     {date: '2025-03-16' ,name: 'Pennzoil 400', location: 'Las Vegas, NV'},
